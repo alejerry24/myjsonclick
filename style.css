@@ -1,0 +1,29 @@
+.content {
+    display: flex;
+    width: 100%;
+}
+
+.demo {
+    width: 50%;
+    height: 328px;
+    border: 1px solid gray;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 15px;
+    border-bottom: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.video {
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.thevideo {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
